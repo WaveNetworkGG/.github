@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/wave-lockup-dark.svg">
-    <img src="assets/wave-lockup-light.svg" alt="Wave Network" width="260">
+    <img src="assets/wave-lockup-light.svg" alt="Wave Network" width="360">
   </picture>
 </p>
 
